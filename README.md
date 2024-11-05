@@ -2,12 +2,11 @@
 
 ### Tecnologías que conozco
 
-![Java](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg)
-![Spring Boot](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/springboot.svg)
-![Postman](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postman.svg)
-![RabbitMQ](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/rabbitmq.svg)
-![PostgreSQL](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postgresql.svg)
-![Docker](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg)
-![Python](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg)
-![Linux](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg)
-
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg" alt="Java" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/springboot.svg" alt="Spring Boot" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postman.svg" alt="Postman" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/rabbitmq.svg" alt="RabbitMQ" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg" alt="Docker" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" alt="Python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg" alt="Linux" width="40" height="40"/>
