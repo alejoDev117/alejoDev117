@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hola, Soy AlejoDev117 👋
 
-<!--
-**alejoDev117/alejoDev117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tecnologías que conozco
 
-Here are some ideas to get you started:
+![Java](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg)
+![Spring Boot](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/springboot.svg)
+![Postman](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postman.svg)
+![RabbitMQ](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/rabbitmq.svg)
+![PostgreSQL](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postgresql.svg)
+![Docker](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg)
+![Python](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg)
+![Linux](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
