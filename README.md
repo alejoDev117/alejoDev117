@@ -3,8 +3,8 @@
 <h1>Sobre mí</h1>
 <h2>Me llamo Alejandro, aunque muchos me conocen como 'alejoDev117'. Soy estudiante de Ingeniería de Sistemas, apasionado por transformar soluciones en código. Me encanta el aprendizaje continuo y mantenerme al día con nuevas tecnologías.<br>
 
-Nota: Tengo el don de crear bugs 😅 <br>
-<img alt="Coding Time" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" align="center"/></h2>
+<br>
+<img alt="Coding Time" src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" align="center"/></h2>
 
 <div id="user-content-toc">
   <ul align="center">
