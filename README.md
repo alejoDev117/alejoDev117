@@ -1,12 +1,30 @@
-## Hola, Soy AlejoDev117 👋
+<h1 align="center">Hola, soy AlejoDev117 👋</h1>
 
-### Tecnologías que conozco
+<h1>Sobre mí</h1>
+<h2>Me llamo Alejandro, aunque muchos me conocen como 'alejoDev117'. Soy estudiante de Ingeniería de Sistemas, apasionado por transformar soluciones en código. Me encanta el aprendizaje continuo y mantenerme al día con nuevas tecnologías.<br>
 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" width="40" height="40" style="display:inline;"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SpringBoot-Dark.svg" alt="Spring Boot" width="40" height="40" style="display:inline;"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman" width="40" height="40" style="display:inline;"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg" alt="RabbitMQ" width="40" height="40" style="display:inline;"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postgresql-Dark.svg" alt="PostgreSQL" width="40" height="40" style="display:inline;"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" width="40" height="40" style="display:inline;"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="40" height="40" style="display:inline;"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="Linux" width="40" height="40" style="display:inline;"/>
+Nota: Tengo el don de crear bugs 😅 <br>
+<img alt="Coding Time" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" align="center"/></h2>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tecnologías que conozco 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
+<!-- Iconos de stack de tecnología -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,postman,git,linux,rabbitmq,py&perline=9" />
+  </a>
+</p>
+
+<h3 align="center">Desarrollador apasionado desde Colombia</h3>
+
+<h3 align="left">Conecta conmigo:</h3>
+<p align="left">
+  <!-- Puedes agregar aquí tus enlaces de redes sociales -->
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejoDev117&show_icons=true&locale=es&layout=compact" alt="alejoDev117" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alejoDev117&show_icons=true&locale=es" alt="alejoDev117" /></p>
