@@ -20,7 +20,4 @@
 </p>
 
 <h3 align="center">Desarrollador apasionado desde Colombia</h3>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejoDev117&show_icons=true&locale=es&layout=compact" alt="alejoDev117" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alejoDev117&show_icons=true&locale=es" alt="alejoDev117" /></p>
