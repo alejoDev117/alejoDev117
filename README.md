@@ -21,10 +21,6 @@
 
 <h3 align="center">Desarrollador apasionado desde Colombia</h3>
 
-<h3 align="left">Conecta conmigo:</h3>
-<p align="left">
-  <!-- Puedes agregar aquí tus enlaces de redes sociales -->
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejoDev117&show_icons=true&locale=es&layout=compact" alt="alejoDev117" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alejoDev117&show_icons=true&locale=es" alt="alejoDev117" /></p>
