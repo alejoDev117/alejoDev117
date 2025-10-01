@@ -17,7 +17,7 @@
 <!-- Iconos de stack de tecnología -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,postman,git,linux,rabbitmq,py&perline=9" />
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,postman,git,linux,rabbitmq,html,javascript,css,react,angular,py&perline=9" />
   </a>
 </p>
 
