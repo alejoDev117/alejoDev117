@@ -1,7 +1,7 @@
-<h1 align="center">Hola, soy AlejoDev117 👋</h1>
+<h1 align="center">Hola, Mucho Gusto 👋</h1>
 
 <h1>Sobre mí</h1>
-<h2>Me llamo Alejandro, aunque muchos me conocen como 'alejoDev117'. Soy estudiante de Ingeniería de Sistemas, apasionado por transformar soluciones en código. Me encanta el aprendizaje continuo y mantenerme al día con nuevas tecnologías.<br>
+<h2>Me llamo Alejandro. Soy estudiante de Ingeniería de Sistemas, apasionado por transformar soluciones en código. Me encanta el aprendizaje continuo y mantenerme al día con nuevas tecnologías.<br>
 
 <br>
 <div align="center">
